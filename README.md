@@ -11,6 +11,11 @@ After installing model:
 
 If you're using a different Llama model, just change the value in the program
 
+Shortcut commands when running the App:
+ctrl+N : New Conversation
+ctrl+S : Stop Generating
+Enter: Send
+
 Pyinstaller:
 1. Open the directory where your python program is located.
 2. open it on CMD or Terminal
