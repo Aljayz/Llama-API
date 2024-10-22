@@ -12,9 +12,9 @@ After installing model:
 If you're using a different Llama model, just change the value in the program
 
 Shortcut commands when running the App:
-ctrl+N : New Conversation
-ctrl+S : Stop Generating
-Enter: Send
+1. ctrl+N : New Conversation
+2. ctrl+S : Stop Generating
+3. Enter: Send
 
 Pyinstaller:
 1. Open the directory where your python program is located.
