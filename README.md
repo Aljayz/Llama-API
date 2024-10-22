@@ -7,7 +7,7 @@ After installing model:
 1. make you install tkinter, using pip
 2. install pyinstaller(Optional) this will do if you want to make your program an .exe file.
 
-If you're using a differnet Llama model, just change the value in the program
+If you're using a different Llama model, just change the value in the program
 
 Pyinstaller:
 1. Open the directory where your python program is located.
