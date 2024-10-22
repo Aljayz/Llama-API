@@ -4,7 +4,7 @@ Download models on:
 https://ollama.com/library
 
 After installing model:
-1. make you install tkinter, using pip
+1. make sure you install tkinter, using pip
 2. install pyinstaller(Optional) this will do if you want to make your program an .exe file.
 
 If you're using a different Llama model, just change the value in the program
