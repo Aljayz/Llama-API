@@ -1,4 +1,6 @@
-Before you use the API program with GUI, make sure you have already installed a Ollama Model. Any Models will do, in my case, I use the Llama3.2:1b-instruct-q3_K_M
+Prerequisites: install python on your device.
+
+Before you run the API program with GUI(Llama-API.py), make sure you have already installed a Ollama Model. Any Models will do, in my case, I use the Llama3.2:1b-instruct-q3_K_M
 
 Download models on: 
 https://ollama.com/library
