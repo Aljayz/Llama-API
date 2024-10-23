@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import scrolledtext
 import threading
-import Llama_API  # Import the API logic from Llama_API.py
+import Llama_API 
 
 class LlamaGUI:
     def __init__(self, master):
